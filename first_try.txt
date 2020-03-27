@@ -1,0 +1,24 @@
+You:	the date
+P.A:	The date is: 04:10:2019
+-----------------------------------------------
+You:	the time
+P.A:	The time is: 15:35:08
+-----------------------------------------------
+You:	launch shareit
+P.A:	Launching shareit
+-----------------------------------------------
+You:	google isro
+P.A:	Searching ['isro'] on google...
+-----------------------------------------------
+You:	play latest song on youtube
+P.A:	Playing [] on Youtube...
+-----------------------------------------------
+You:	current weather in delhi
+-----------------------------------------------
+
+You:
+the time
+P.A:
+The time is: 21:44:27
+-----------------------------------------------
+
